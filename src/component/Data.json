@@ -1,0 +1,23 @@
+[
+    {   
+        "id": 1,
+        "stt": 1,
+        "name": "Vu Hoang Hai",
+        "phone": "0343622313",
+        "permission":1
+    },
+    {   
+        "id": 2,
+        "stt": 2,
+        "name": "Nguyen Vu Long",
+        "phone": "0343622313",
+        "permission":3
+    },
+    {
+        "id": 3,
+        "stt": 3,
+        "name": "Vu Hoang Hai",
+        "phone": "0343622313",
+        "permission":2
+    }
+]
